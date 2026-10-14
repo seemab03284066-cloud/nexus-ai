@@ -1,0 +1,6 @@
+DATABASE_URL=postgresql://postgres:postgres@localhost:5432/nexus_ai
+SECRET_KEY=your-secure-random-secret-key
+PAPER_STARTING_BALANCE=100.0
+TELEGRAM_BOT_TOKEN=
+TELEGRAM_CHAT_ID=
+
